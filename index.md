@@ -1,3 +1,8 @@
+---
+title: Make Ducks Great Again
+author: ME
+---
+
 docs-mysql
 ==========
 
